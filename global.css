@@ -22,10 +22,27 @@ header {
   background-color: #536563;
 }
 
-.sponsor {
-  display: block;
-  margin-left: auto;
-  margin-right: auto }
-  
+.sponsor_area {
+  padding: 10px;
   background-color: #536563;
 }
+
+.sponsor {
+  position: relative;
+  left: -5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #536563;
+}
+
+#register {
+  background-color: white;
+  margin-top: 40px;
+}
+
+.headline {
+  font-family: 'Rokkitt', serif;
+  padding: 20px;
+}
+  
