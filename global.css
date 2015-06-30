@@ -93,5 +93,14 @@ header {
   opacity: 0.7;
 }
 
+.event_schedule{
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-image: url("./assets/part3/wood-bg.png");
+}
 
+.event_schedule img{
+  margin-top: 50px;
+}
   
