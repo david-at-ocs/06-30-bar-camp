@@ -55,4 +55,30 @@ header {
   background-image: url("./assets/part2/dash-horizontal.png");
   background-repeat: repeat-x;
 }
+
+.under_dotted {
+  margin-top: 50px;
+}
+
+.talk_sections {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 100px;
+}
+
+.talk_sections h2 {
+  color: #709B4B;
+}
+
+.talk_sections ul {
+  list-style-type: none;
+  padding: 0px;
+  color: #8b0000;
+}
+
+.talk_sections li {
+  margin-bottom: 10px;
+}
+
+
   
