@@ -94,16 +94,14 @@ header {
 }
 
 .event_schedule{
-  padding-top: 50px;
-  padding-bottom: 50px;
   background-image: url("./assets/part3/wood-bg.png");
 }
 
 .event_schedule img {
+  padding-top: 35px;
   position: relative;
   left: -5px;
   display: block;
-  margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -116,7 +114,6 @@ header {
   text-align: center;
   color: #DAA520;
   width: 70%;
-  margin-top: 90px;
   margin-bottom: 10px;
   font-size: 2.5em;
 }
@@ -127,7 +124,6 @@ header {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0px;
-  margin-bottom: 80px;
   text-align: center;
   color: white;
   width: 85%;
@@ -157,6 +153,7 @@ header {
   -webkit-border-radius: 50px;
   border-radius: 50px;
   border: 3px solid #D2691E;
+  margin-top: 70px;
 }
 
 .circle h1 {
@@ -184,7 +181,6 @@ header {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  top: -25px;  
   font-family: 'Lato', sans-serif;
   padding: 0px;
   margin: 0px;
@@ -194,7 +190,7 @@ header {
   color: white;
   font-size: 25px;
   padding-top: 0px;
-  margin-top: 0px;
+  margin-top: 25px;
 }
 
 .event_schedule_text p {
