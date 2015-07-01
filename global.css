@@ -203,8 +203,35 @@ header {
   margin-top: 0px;
 }
 
+.faq {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: #CAECF7;
+}
 
+.faq img {
+  position: relative;
+  top: 4px;
+  margin-top: 20px;
+}
 
+.faq ul {
+  width: 90%;
+  font-size: 25px;
+  color: #8C5A30;
+  list-style: none;
+  margin-bottom: 0px;
+}
+
+.faq li {
+  text-align: left;
+  background: url(./assets/part4/plus-bullet.png) left top no-repeat; 
+  padding-left: 35px;
+  padding-bottom: 25px;
+}
 
 
 
